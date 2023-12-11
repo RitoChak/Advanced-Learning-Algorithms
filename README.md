@@ -1,4 +1,4 @@
-## Course 1 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/home/info)
+## Course 2: [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/home/info)
 This repository contains all the optional and practice labs as well as the assignments of the course : Advanced Learning Algorithms.
 
 <hr/>
