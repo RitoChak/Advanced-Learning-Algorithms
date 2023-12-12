@@ -29,3 +29,19 @@ This repository contains all the optional and practice labs as well as the assig
     - [Optional Lab: Diagnosing Bias and Variance](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Advice%20for%20Machine%20Learning/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
   - [Programming Assignment](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Programming%20Assignment)
     - [Programming Assignment: Practice Lab: Advice for Applying Machine Learning](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Programming%20Assignment/C2_W3_Assignment.ipynb)
+
+<br/>
+
+- [Week 4 :](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204)
+  - [Decision Trees](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Decision%20Trees)
+    - [Ungraded Lab: Decision Trees](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Decision%20Trees/C2_W4_Lab_01_Decision_Trees.ipynb)
+  - [Tree Ensembles](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Tree%20Ensembles)
+    - [Ungraded Lab - Trees Ensemble](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Tree%20Ensembles/C2_W4_Lab_02_Tree_Ensemble.ipynb)
+  - [Programming Assignment](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Practice%20Lab%20Decision%20Trees)
+    - [Programming Assignment: Practice Lab: Decision Trees](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/8bc9e7b1bcbae3789f181d3465b5736032b3e1b8/Week%204/Practice%20Lab%20Decision%20Trees/C2_W4_Decision_Tree_with_Markdown.ipynb)
+
+<br/>
+
+### Certificate Of Completion : [Click here](https://coursera.org/share/269b838304ea585e84f87ebdbf8ceee9)
+
+<hr/>
