@@ -20,4 +20,12 @@ This repository contains all the optional and practice labs as well as the assig
     - [Multiclass](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/b26cd67ccbcae6a31e1b09ea52e4f37fa2499c9d/Week%202/Multiclass%20Classification/C2_W2_Multiclass_TF.ipynb)
   - [Practice Lab Neural Networks for Multiclass classification](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/b26cd67ccbcae6a31e1b09ea52e4f37fa2499c9d/Week%202/Practice%20Lab%20Neural%20Networks%20for%20Multiclass%20classification)
     - [Programming Assignment: Practice Lab: Neural Networks for Multiclass classification](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/b26cd67ccbcae6a31e1b09ea52e4f37fa2499c9d/Week%202/Practice%20Lab%20Neural%20Networks%20for%20Multiclass%20classification/C2_W2_Assignment.ipynb)
-   
+
+<br/>
+
+- [Week 3 :](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203)
+  - [Advice for Machine Learning](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Advice%20for%20Machine%20Learning)
+    - [Optional Lab: Model Evaluation and Selection](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Advice%20for%20Machine%20Learning/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+    - [Optional Lab: Diagnosing Bias and Variance](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Advice%20for%20Machine%20Learning/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+  - [Programming Assignment](https://github.com/RitoChak/Advanced-Learning-Algorithms/tree/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Programming%20Assignment)
+    - [Programming Assignment: Practice Lab: Advice for Applying Machine Learning](https://github.com/RitoChak/Advanced-Learning-Algorithms/blob/43e27d2d8811f0d75f4336613e50bf9e09995889/Week%203/Programming%20Assignment/C2_W3_Assignment.ipynb)
